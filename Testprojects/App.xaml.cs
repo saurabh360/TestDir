@@ -7,6 +7,7 @@ namespace Testprojects
 		public App()
 		{
 			int i = 5;
+			string st = "test";
 			InitializeComponent();
 
 			MainPage = new TestprojectsPage();
